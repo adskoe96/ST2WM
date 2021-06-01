@@ -41,7 +41,7 @@
 .glitch {
 	position: relative;
 	color: white;
-	font-size: 4em;
+	font-size: 3em;
 	letter-spacing: 0.5em;
 	animation: glitch-skew 1s infinite linear alternate-reverse;
   }
@@ -274,10 +274,10 @@
 	100% {
 	  transform: skew(-1deg);
 	}
-  }
+}
 .blurry-text {
 	font-style: normal;
-	font-size: 20px;
+	font-size: 15px;
 	text-align: center;
 	color: transparent;
 	text-shadow: rgb(255, 255, 255) 0 0 15px;
@@ -287,4 +287,11 @@
 .blurry-text:hover{
 	color: rgb(255, 255, 255);
   	text-shadow: none;
+}
+.secret-btn{
+	background-color: #00000007;
+	color: #00000010;
+	right: 100%;
+	top: 100%;
+	border: 0px;
 }
