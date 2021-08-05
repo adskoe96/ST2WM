@@ -2,7 +2,7 @@
 
 - ENG:
 
-## open multiplayer has been made "adskoe96" if you want to contact him: https://adskoe96.github.io/links/
+## open multiplayer has been made by "adskoe96" if you want to contact me: https://adskoe96.github.io/links/
 
 also words for those who are against such an idea, I can always shutdown the server for multiplayer, so as to avoid problems.
 again, i didn't do this to spite Sean Thoman (Zeoworks), I did it for oldfags who want to remember this game when it had working multiplayer, but not for cheaters, if they will - i'll try to change the server and update it every time.
@@ -12,7 +12,7 @@ again, i didn't do this to spite Sean Thoman (Zeoworks), I did it for oldfags wh
 
 - RUS:
 
-## открытый мультиплеер был совершён "adskoe96", если вы хотите связаться с ним: https://adskoe96.github.io/links/.
+## открытый мультиплеер был совершён автором "adskoe96", если вы хотите связаться со мной: https://adskoe96.github.io/links/.
 
 также слова для тех, кто против такой идеи, я всегда могу отключить сервер для мультиплеера, чтобы избежать проблем.
 повторюсь, я сделал это не назло Шону Томану, а для олдфагов, которые хотят вспомнить эту игру, когда в ней был рабочий мультиплеер, но не для читеров, если они будут - я постараюсь изменить сервер и обновлять его каждый раз.
