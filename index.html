@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=0.7">
+
 <head>
     <title>ST2WM</title>
     <link rel="stylesheet" href="Assets/style.css">
     <link rel="shortcut icon" href="Assets/icon.ico" type="image/x-icon">
     <link rel="icon" href="Assets/icon.ico" type="image/x-icon">
     <style>
-        body{
-            background: linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.5) ), url("Assets/bg2.jpg");
+        body {
+            background: linear-gradient( rgb(0, 0, 0), rgba(0, 0, 0, 0.5)), url("Assets/bg2.jpg");
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover;
         }
     </style>
 </head>
+
 <body>
     <style>
         @font-face {
-        font-family: 'LDSlender';
-        src: url('Assets/font/ld_slender-webfont.woff') format('woff');
-        font-weight: normal;
-        font-style: normal;
+            font-family: 'LDSlender';
+            src: url('Assets/font/ld_slender-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
         }
     </style>
     <button onclick="play();" class="secret-btn">a</button>
     <center>
-    <br>
-    <br>
-    <br>
-    <br>
-    <h1 style="color: white;">Slendytubbies II <br/>Working Multiplayer</h1>
+        <br>
+        <br>
+        <h1 style="color: white; font-size: 50px; font-family: 'LDSlender';">Slendytubbies II Working Multiplayer</h1>
     </center>
     <br>
     <br>
     <br>
     <br>
     <center>
-        <h1 style="font-family: 'LDSlender'; color: white;">Download Launcher here</h1>
+        <h1 style="font-family: 'LDSlender'; color: white;">Download Launcher</h1>
         <button onclick="window.open('https://cdn.discordapp.com/attachments/716930426140360704/866313569351630888/ST2WML.zip','_blank')" class="custom-btn btn-12">Download</button>
+        <br>
         <br>
         <button onclick="window.open('https://gamejolt.com/games/ST2WM/656864','_blank')" class="custom-btn btn-12">GameJolt Page</button>
         <br>
@@ -61,19 +62,19 @@
     <br>
     <br>
     <center>
-    <h1 class="blurry-text">The whole site was created by the author: @adskoe96</h1>
-    <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="https://adskoe96.github.io/links" target="_blank">Contact adskoe96</a>
-    <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="http://zeoworks.com" target="_blank">ZeoWorks forum</a>
-    <br/>
-    <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="http://zeoworks.com/games/Slendytubbies2.html" target="_blank">Download original Slendytubbies 2 here</a>
+        <h1 class="blurry-text">The whole site was created by the author: @adskoe96</h1>
+        <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="https://adskoe96.github.io/links" target="_blank">Contact adskoe96</a>
+        <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="http://zeoworks.com" target="_blank">ZeoWorks forum</a>
+        <br/>
+        <a style="opacity: 50%; color: rgb(255, 255, 255); size: 10pm;" href="http://zeoworks.com/games/Slendytubbies2.html" target="_blank">Download original Slendytubbies 2 here</a>
     </center>
     <audio id="audio1" hidden="true" src="Assets/Audio/oops.mp3"></audio>
     <script>
-        function play()
-        {
+        function play() {
             doc = document.getElementById("audio1");
             doc.play();
         }
     </script>
 </footer>
+
 </html>
